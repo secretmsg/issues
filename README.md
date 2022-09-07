@@ -1,2 +1,2 @@
-# issues
-Feel free to submit a discussion on some issues of using the website.
+# issues discussion
+Please feel free to submit a discussion on some aspects of using the website.
